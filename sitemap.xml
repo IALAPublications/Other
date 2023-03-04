@@ -1,15 +1,19 @@
-<?xml%20version="1.0"%20encoding="UTF-8"?>
-<urlset%20xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1000%20Navguide%202018%20Ed8%20Compressed.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1000 Navguide 2018 Ed8 Compressed.pdf</loc>
 <lastmod>2023-03-04T16:50:46+01:00</lastmod>
 </url>
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1100%20VTS%20Manual%202021%20Ed8.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1100 VTS Manual 2021 Ed8.pdf</loc>
 <lastmod>2023-03-04T16:50:46+01:00</lastmod>
 </url>
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1200%20Complementary%20lighthouse%20use%20manual%20Ed2.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/M1200 Complementary lighthouse use manual Ed2.pdf</loc>
 <lastmod>2023-03-04T16:50:46+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Other/main/egils_saga.pdf</loc>
+<lastmod>2023-03-04T18:16:59+01:00</lastmod>
 </url>
 </urlset>
